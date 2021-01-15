@@ -18,3 +18,7 @@ You can then run the Flask server by running `routes.py` in `blockchain/api/rout
 Some simple requests to try out are the `/mine`, `/chain`, and `/transactions/new` requests. Reading the code in `/blockchain/api/routes.py` can give more clarity how exactly to test it out.
 
 Data exchanged between nodes as of now is integers, but the code can be easily altered to include custom datatypes. Future commits will include further scalability.
+
+### Future work
+  - More Scalability
+  - Quantum implementation
