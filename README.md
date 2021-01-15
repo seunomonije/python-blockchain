@@ -4,7 +4,7 @@ Implementation of a simple blockchain in Python.
 
 ### Instructions
 
-Iteracting with the backend requires an HTTP Client for the time being. I recommend using [this Chrome extension](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo?hl=en-US)
+Iteracting with the backend requires an HTTP Client for the time being. I recommend using [this Chrome extension](https://chrome.google.com/webstore/detail/advanced-rest-client/hgmloofddffdnphfgcellkdfbfbjeloo?hl=en-US).
 
 I recommend running this project in a virtual environment to keep everything clean. The requirements for the project can be found in `requirements.txt`. You can setup a virtual environment and install the requirements with (assuming python points to Python 3.3 or newer):
 ```
